@@ -1,0 +1,61 @@
+body{
+  font-family: 'Open sans condensed', sans-serif;
+
+}
+
+h1{
+  font-family: "Anton", sans-serif;
+}
+
+
+p {margin-bottom:1em;
+text-align: center;}
+
+h1, h2, h3, h4,{
+  margin: 1.414em 0 0.5em;
+  font-weight: inherit;
+  line-height: 1;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-size: 8.063em;
+}
+
+h2 {font-size: 3.375em;
+font-family: "Anton", sans-serif;}
+
+h3 {font-size: 2em;
+font-family: "Anton", sans-serif;
+line-height: 0.7;
+}
+
+h4 {font-size: 1em;
+line-height: 1;
+margin: 1.414em 0 0.5em;
+text-align: center;
+padding: 9em;
+}
+
+
+h5 {font-size: 1.2em;
+font-family:"Anton", sans-serif;
+line-height: 1;
+margin: 1.414em 0 0.5em;
+text-align: center;
+padding: 9em;
+}
+
+
+small, .font_small {font-size: 0.618em;}
+
+.nastyadvert h1 {
+  font-family: 'Open sans condensed' sans-serif;
+  text-align: center;
+  color: #000000;
+  text-shadow: 1px 1px 2px black;
+  position: absolute;
+  top: 50%;
+  transform :translateY(-50%);
+}
